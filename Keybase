@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am vladbroo on github.
+  * I am vladbro (https://keybase.io/vladbro) on keybase.
+  * I have a public key ASBFawtU905ba1NrB6iF0pXjp7icAxvxGUgRDRhxLxmyMAo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120456b0b54f74e5b6b536b07a885d295e3a7b89c031bf11948110d18712f19b2300a",
+      "host": "keybase.io",
+      "kid": "0120456b0b54f74e5b6b536b07a885d295e3a7b89c031bf11948110d18712f19b2300a",
+      "uid": "dbbf6d2a264ee08d61d5318bfc640c19",
+      "username": "vladbro"
+    },
+    "merkle_root": {
+      "ctime": 1568488942,
+      "hash": "12d1b6efb7af97cd167b0ecfbec2e2b8173a3c50134e35684a7b67e35d402c71cd4b6626721d75bac7f6c67e66dcbe64d9003d81d32868332e14d500e7d8ea48",
+      "hash_meta": "bf07ff0905ff34975dd0c8c0785a9f7b8a75becfe819d59f7bdae28c11014c6a",
+      "seqno": 7345083
+    },
+    "service": {
+      "entropy": "hDkRCj3rmMOsqJTGMb0OWW5q",
+      "name": "github",
+      "username": "vladbroo"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.2"
+  },
+  "ctime": 1568488948,
+  "expire_in": 504576000,
+  "prev": "488cc952e95235537c8dfb4d38691dd8fd7cb57a0ee2b01f32b711126416fd90",
+  "seqno": 5,
+  "tag": "signature"
+}
+```
+
+with the key [ASBFawtU905ba1NrB6iF0pXjp7icAxvxGUgRDRhxLxmyMAo](https://keybase.io/vladbro), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgRWsLVPdOW2tTaweohdKV46e4nAMb8RlIEQ0YcS8ZsjAKp3BheWxvYWTESpcCBcQgSIzJUulSNVN8jftNOGkd2P18tXoO4rAfMrcREmQW/ZDEILowJllj9jMMFwBOZpWhKZzyxPfJmrkERobdBoVcpMyIAgHCo3NpZ8RABflsKT+1XbzwVpM553fgGIhx2F7wSf0BP6KBNjf/6opEIh2VE48vv7zSGqYzMhJ3HugmnFdopfaFD4CDKonDD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJ/Cdsis6VaP+4vMPo2HUZgbZb9Wcg6/ggQMCgNBMk16o3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/vladbro
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id vladbro
+```
